@@ -1,1 +1,1 @@
-print("kwstas")
+print("grinia")
